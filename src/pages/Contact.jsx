@@ -8,6 +8,7 @@ const Contact = () => {
       <Link className=""></Link>
       <div>kaddu</div>
       <div>peda</div>
+      <div>nandu</div>
       
     </div>
   );
