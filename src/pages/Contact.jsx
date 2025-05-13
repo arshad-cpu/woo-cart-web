@@ -9,6 +9,7 @@ const Contact = () => {
       <div>kaddu</div>
       <div>peda</div>
       <div>nandu</div>
+      <div>lund</div>
       
     </div>
   );
