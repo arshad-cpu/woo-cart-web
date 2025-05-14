@@ -6,12 +6,7 @@ const Contact = () => {
     <div className="">
       Contact
       <Link className=""></Link>
-      <div>kaddu</div>
-      <div>peda</div>
-      <div>nandu</div>
-      <div>lund</div>
-      
-    </div>
+     </div>
   );
 };
 
